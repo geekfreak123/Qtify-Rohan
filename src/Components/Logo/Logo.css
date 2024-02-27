@@ -1,5 +1,5 @@
 #logo{
   display: flex;
   align-items: center;
-  margin-left: 12px;
+  gap: 10px;
 }
