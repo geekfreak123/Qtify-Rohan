@@ -1,0 +1,11 @@
+.HeroSection{
+  height: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.Heading{
+  height: 8vh;
+}
