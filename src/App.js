@@ -4,10 +4,10 @@ import Navbar from './Components/Navbar/Navbar';
 
 function App() {
   return (
-<>
-  <Navbar/>
-  <HeroSection/>
-</>
+    <>
+      <Navbar/>
+      <HeroSection/>
+    </>
   );
 }
 
