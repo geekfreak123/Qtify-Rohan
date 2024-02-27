@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins&family=Roboto:wght@500&display=swap");
+
 :root{
-  -color-primary:#34c94b;
-  -color-black:#121212;
-  -color-white:#fff;
+  --color-primary:#34c94b;
+  --color-black:#121212;
+  --color-white:#fff;
 }
 *,
 *::before,
@@ -17,7 +19,7 @@ html,body{
 body{
   font-family: 'poppins', sans-serif;
   line-height: 1.5;
-  background-color: #121212;
-  color: #FFFFFF;
+  background-color: var(--color-black);
+  color: var(--color-white);
   overflow-x: hidden;
 }
