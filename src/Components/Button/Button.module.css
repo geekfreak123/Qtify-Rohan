@@ -6,4 +6,6 @@
   font-weight:bold;
   padding: 13px; 
   border: 1px solid #121212;
+  font-family: 'Poppins';
+  cursor: pointer;
 }
