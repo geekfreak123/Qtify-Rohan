@@ -1,8 +1,9 @@
-.Navbar{
+.navbar{
   background-color: var(--color-primary);
   height: 74px;
-  padding: 0 32px;
+  width: 100vw;
+  padding: 0px 32px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-} 
+}

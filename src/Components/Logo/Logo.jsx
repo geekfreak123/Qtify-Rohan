@@ -1,11 +1,10 @@
-import React from 'react'
-import logoImage from '../../assets/logo.png'
-import styles from './Logo.module.css'
+import React from "react";
+import LogoImage from "../../assets/logo.png"
 
 function Logo() {
-  return (
-    <img src={logoImage} alt="Qtify Logo" width={65} className={styles.Logo}/>
-  )
+    return (
+        <img src={LogoImage} alt="logo" width={67} />
+    )
 }
 
-export default Logo
+export default Logo;

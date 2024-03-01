@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 270px;
+  flex-shrink: 0;
+  gap: 30px;
+  background-color: var(--color-black);
+}
+
+.heroHeading {
+  color: var(--color-white);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
